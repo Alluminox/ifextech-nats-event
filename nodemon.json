@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ext": "ts",
+  "ignore": ["__testes__/**/*.test.ts"],
+  "execMap": {
+    "ts": "ts-node ./src/index.ts"
+  }
+}
